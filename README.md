@@ -10,7 +10,7 @@
 
 <br><br>
 ## 👨‍👩‍👧‍👦 멤버 구성 
-- [윤재성](https://github.com/jeasung90) :
+- 윤재성 (https://github.com/jeasung90)
   
    &nbsp;&nbsp;&nbsp; - 회원가입 및 로그인
   
@@ -18,7 +18,7 @@
   
    &nbsp;&nbsp;&nbsp; -  DB설계 및 관리
   
-- [류지완](https://github.com/Rjiwan) :
+- 류지완 (https://github.com/Rjiwan)
   
     &nbsp;&nbsp;&nbsp; - 메인페이지
 
@@ -28,7 +28,7 @@
 
     &nbsp;&nbsp;&nbsp; -  검색페이지
   
-- [윤관현](https://github.com/YoonTarget) :
+- 윤관현 (https://github.com/YoonTarget)
 
    &nbsp;&nbsp;&nbsp; - 마이페이지
   
