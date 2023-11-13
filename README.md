@@ -49,13 +49,13 @@
 
 <br><br>
 
-### 🌈 기술 스택 
+## 🌈 기술 스택 
 - FrontEnd : HTML5, JavaScript, JQuery , AJax , CSS3
 - BackEnd : Java 11, JSP & Servlet
   
 
 <br><br>
-# 📢프로젝트 설명
+## 📢프로젝트 설명
 
 **티켓딱대 -  다양한 이벤트 티켓을 효율적으로 검색하고 예매할 수 있는 종합 예매 사이트**
 
