@@ -89,7 +89,7 @@
 &nbsp;&nbsp;&nbsp; - 유저의 정보를 이용한 조회로 아이디찾기 및 비밀번호 재설정
 ![아이디찾기 및 비밀번호 재설정](https://github.com/inumsiki/ticketDdakdae/assets/134485808/9b9b37e6-6eda-4370-a225-bf2d7231ecae)
 
-### DB 설계
+#### 😊 DB 설계 및 관리 😊
 <details>
 <summary>접기/펼치기</summary>
 <pre> 
