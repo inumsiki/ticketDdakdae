@@ -1,9 +1,8 @@
-# ticketDdakdae
+![header](https://user-images.githubusercontent.com/134485808/282424576-4f60666d-7f21-4c47-b1fc-1b2974510f4b.jpg)
+# 티켓딱대
 문화, 예술 공연 All-In-One 예매 사이트
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20To%20OKKH%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    <img src="okkh/src/main/webapp/resources/images/logo/okkh1.png" >
