@@ -75,6 +75,16 @@
  
 </div>
 
+
+
+
+
+
+
+
+
+
+
  
 <br><br>
 ## 프로젝트 구현
@@ -82,105 +92,82 @@
 <br><br>
 ### 윤재성
 
-
-#### 😊 메인 페이지 😊 
-&nbsp;&nbsp;&nbsp; - Oauth를 통한 로그인
-
-&nbsp;&nbsp;&nbsp; - 조회수 기준 Top4 게시글 노출 및 조회
+<br><br>
+#### 😊 회원가입 및 로그인 😊
+&nbsp;&nbsp;&nbsp; - 정규표현식을 이용한 아이디 및 비밀번호 입력 후 회원가입 및 로그인
+![회원가입 및 로그인](https://github.com/inumsiki/ticketDdakdae/assets/134485808/ebacf901-1728-4f48-8928-133ce50649d7)
 
 <br><br>
-#### 😊 마이 페이지 😊
-&nbsp;&nbsp;&nbsp; - 나의 정보 수정 
+#### 😊 아이디찾기 및 비밀번호 재설정 😊 
+&nbsp;&nbsp;&nbsp; - 유저의 정보를 이용한 조회로 아이디찾기 및 비밀번호 재설정
+![아이디찾기 및 비밀번호 재설정](https://github.com/inumsiki/ticketDdakdae/assets/134485808/9b9b37e6-6eda-4370-a225-bf2d7231ecae)
 
-&nbsp;&nbsp;&nbsp; - 내가 작성한 게시글 조회
-
-<br><br>
-#### 😊 채팅 (1:1 / 1:n) 😊
-&nbsp;&nbsp;&nbsp; - 채팅방 초대
-
-&nbsp;&nbsp;&nbsp; - 채팅
 
 <br><br>
 ### 류지완
 
+#### 😊 메인페이지 😊 
 
-#### 😊 친구 관리 😊
-&nbsp;&nbsp;&nbsp; - 친구 조회 
-
-&nbsp;&nbsp;&nbsp; - 친구 추가
-
-&nbsp;&nbsp;&nbsp; - 친구 차단
+![메인페이지](https://github.com/inumsiki/ticketDdakdae/assets/134485808/2e83cb2d-6f2a-4f20-b888-06751819b575)
 
 <br><br>
-### 😊 나의 PR 😊
-&nbsp;&nbsp;&nbsp; - PR 작성
+### 😊 상품검색 😊
+&nbsp;&nbsp;&nbsp; - 키워드에 해당하는 검색내용 조회
 
-&nbsp;&nbsp;&nbsp; - PR 수정 및 삭제
+![상품검색](https://github.com/inumsiki/ticketDdakdae/assets/134485808/aa306ad8-a55a-40fb-9b1f-9e4691ca25fb)
 
 
 <br><br>
-#### 😊 프로젝트 모집 😊
+#### 😊 카테고리 😊
 
-&nbsp;&nbsp;&nbsp; - 프로젝트 모집글 작성
+&nbsp;&nbsp;&nbsp; - 카테고리별 페이지
 
-&nbsp;&nbsp;&nbsp; - 프로젝트 참여하기(작성자에게 실시간 알림)
-
-&nbsp;&nbsp;&nbsp; - 프로젝트 팀원 추가 및 확정
-
+![카테고리](https://github.com/inumsiki/ticketDdakdae/assets/134485808/8a4ead5a-5b07-4a67-a68f-a77aea8a2df8)
 <br><br>
 
 <br><br>
-#### 😊 Pull-Request 😊
-&nbsp;&nbsp;&nbsp; - Repository 별 Pull-Request 조회
+#### 😊 추천상품조회 😊
+&nbsp;&nbsp;&nbsp; - 이용자 관심태그별 인기상품을 동적으로 조회해 추천
 
-&nbsp;&nbsp;&nbsp; - Pull-Request 작성 
-
-&nbsp;&nbsp;&nbsp; - Pull-Request review 작성 및 조회
-
-&nbsp;&nbsp;&nbsp; - Pull-Request 진행 상태 관리
+ - 로그인 전 페이지
+![로그인 전 메인](https://github.com/inumsiki/ticketDdakdae/assets/134485808/201dd60a-19be-4be3-bc17-a3d831bc7f54)
+<br><br>
+ - 로그인 후 페이지
+![로그인 후 메인](https://github.com/inumsiki/ticketDdakdae/assets/134485808/ce94f83d-7730-4226-b385-76ca134f6ee8)
 
 <br><br>
 ### 윤관현
 
+<br><br>
+#### 😊 마이페이지 😊
+&nbsp;&nbsp;&nbsp; - 회원 정보 조회 및 변경, 탈퇴 기능
 
-#### 😊 나의 프로젝트 😊
-&nbsp;&nbsp;&nbsp; - 모집된 팀원으로 프로젝트 생성 및 조회
+![마이페이지](https://github.com/inumsiki/ticketDdakdae/assets/134485808/061f062b-4bc1-4bad-9515-1b942f583a15)
 
-<img src="https://user-images.githubusercontent.com/126389803/282291341-73443f50-6cd4-4d4f-ab8f-e6a8f6c5f452.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291342-378ee231-4efb-4595-8278-d1273580df81.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291344-17a68b32-c1b6-4bf6-a10e-4104292d8738.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291345-aee0550d-4529-44ff-88f0-a68304af6809.png">
 
 <br><br>
-#### 😊 Repository 😊
+#### 😊 티켓예매 😊
 
-&nbsp;&nbsp;&nbsp; - Repository 생성 및 관리
+&nbsp;&nbsp;&nbsp; - 상품의 정보와 금액을 산정해 티켓 구매 및 예매 내역 조회
 
-<img src="https://user-images.githubusercontent.com/126389803/282291346-641cc35a-7b28-46a2-918e-9911de2d386e.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291349-96d83ce4-7fbb-4d74-a495-6ca7925f093f.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291352-bc19fcbb-4aef-41a4-a200-0fe36994a926.png">
+![티켓예매](https://github.com/inumsiki/ticketDdakdae/assets/134485808/17fac826-d328-4969-a3f6-76a3436f96a0)
 
-<br><br>
-&nbsp;&nbsp;&nbsp; - Branch 별 최근 commit 조회
-
-<img src="https://user-images.githubusercontent.com/126389803/282291358-6992bb99-e04c-4111-813e-60aafb55200e.png">
 
 <br><br>
-&nbsp;&nbsp;&nbsp; - Repository 전체 Commit 조회
+#### 😊 한줄평 😊
 
-<img src="https://user-images.githubusercontent.com/126389803/282291357-7f4843d8-1c26-491d-8502-87dafa92f055.png">
+&nbsp;&nbsp;&nbsp; - 상영날짜가 지난 예매내역의 한줄평 작성 및 수정 기능
 
-<br><br>
-&nbsp;&nbsp;&nbsp; - Repository 컨텐츠 및 코드 조회
-
-<img src="https://user-images.githubusercontent.com/126389803/282291353-f59c319d-6a7a-432a-92d4-afe7c2151e12.png">
-<img src="https://user-images.githubusercontent.com/126389803/282291356-0008707f-e4f4-40bf-babb-61bef45c1982.png">
+![한줄평](https://github.com/inumsiki/ticketDdakdae/assets/134485808/f7c8fd38-3b32-49cb-a743-e4bfc6a00ca4)
 
 <br><br>
-#### 😊 Calendar 😊
-&nbsp;&nbsp;&nbsp; - 일정관리
+#### 😊 좋아요 😊
+&nbsp;&nbsp;&nbsp; - ajax를 이용한 좋아요 조회 및 관리 기능
 
-<img src="https://user-images.githubusercontent.com/126389803/282291360-fe49f405-6518-4c56-bdcb-72cea1810cb8.png">
+![좋아요](https://github.com/inumsiki/ticketDdakdae/assets/134485808/ba6502d0-19a1-4cd5-af45-2ecc9af28803)
+
+
+
 
 
 
